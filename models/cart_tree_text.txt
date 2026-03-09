@@ -1,0 +1,94 @@
+|--- Urban population <= 117327504.00
+|   |--- Urban population <= 15905669.00
+|   |   |--- Total Population - Female <= 18166451.00
+|   |   |   |--- Total Population - Female <= 4974990.50
+|   |   |   |   |--- Total Population - Male <= 2049875.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Total Population - Male >  2049875.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |--- Total Population - Female >  4974990.50
+|   |   |   |   |--- Urban population <= 5208391.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Urban population >  5208391.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |--- Total Population - Female >  18166451.00
+|   |   |   |--- Year <= 2001.50
+|   |   |   |   |--- Rural population <= 29705916.00
+|   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |--- Rural population >  29705916.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |--- Year >  2001.50
+|   |   |   |   |--- Urban population <= 15292223.50
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Urban population >  15292223.50
+|   |   |   |   |   |--- truncated branch of depth 2
+|   |--- Urban population >  15905669.00
+|   |   |--- Rural population <= 121695584.00
+|   |   |   |--- Urban population <= 110372372.00
+|   |   |   |   |--- Urban population <= 105051136.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Urban population >  105051136.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |--- Urban population >  110372372.00
+|   |   |   |   |--- Rural population <= 26594181.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Rural population >  26594181.00
+|   |   |   |   |   |--- truncated branch of depth 3
+|   |   |--- Rural population >  121695584.00
+|   |   |   |--- Year <= 2011.50
+|   |   |   |   |--- Total Population - Female <= 112937092.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Total Population - Female >  112937092.00
+|   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- Year >  2011.50
+|   |   |   |   |--- Year <= 2016.50
+|   |   |   |   |   |--- value: [140002.08]
+|   |   |   |   |--- Year >  2016.50
+|   |   |   |   |   |--- truncated branch of depth 3
+|--- Urban population >  117327504.00
+|   |--- Urban population <= 552369824.00
+|   |   |--- Urban population <= 167059640.00
+|   |   |   |--- Rural population <= 77731176.00
+|   |   |   |   |--- Rural population <= 32878926.00
+|   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |--- Rural population >  32878926.00
+|   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |--- Rural population >  77731176.00
+|   |   |   |   |--- Year <= 2019.50
+|   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |--- Year >  2019.50
+|   |   |   |   |   |--- value: [806305.21]
+|   |   |--- Urban population >  167059640.00
+|   |   |   |--- Urban population <= 382323120.00
+|   |   |   |   |--- Year <= 2003.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Year >  2003.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |--- Urban population >  382323120.00
+|   |   |   |   |--- Rural population <= 837771136.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |--- Rural population >  837771136.00
+|   |   |   |   |   |--- truncated branch of depth 6
+|   |--- Urban population >  552369824.00
+|   |   |--- Total Population - Female <= 671467296.00
+|   |   |   |--- Year <= 2006.50
+|   |   |   |   |--- Urban population <= 573566176.00
+|   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- Urban population >  573566176.00
+|   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- Year >  2006.50
+|   |   |   |   |--- Total Population - Female <= 665940224.00
+|   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |--- Total Population - Female >  665940224.00
+|   |   |   |   |   |--- truncated branch of depth 2
+|   |   |--- Total Population - Female >  671467296.00
+|   |   |   |--- Urban population <= 819143008.00
+|   |   |   |   |--- Total Population - Female <= 683707072.00
+|   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- Total Population - Female >  683707072.00
+|   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |--- Urban population >  819143008.00
+|   |   |   |   |--- Urban population <= 856048992.00
+|   |   |   |   |   |--- value: [2840113.13]
+|   |   |   |   |--- Urban population >  856048992.00
+|   |   |   |   |   |--- truncated branch of depth 2
